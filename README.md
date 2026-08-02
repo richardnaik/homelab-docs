@@ -1,2 +1,0 @@
-
-homelab docs, more later
