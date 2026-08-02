@@ -1,0 +1,1 @@
+On Evo there are also four 4TB drives that were used when he was a TrueNAS box. Now I have them split into two ZFS pools of two drives each, one for UNAS backups and the other for docker volume backups. Even with only 4TB of space in each pool I haven't hit the storage limit, so tey'll stay as they are for backups for a while.

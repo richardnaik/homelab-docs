@@ -1,4 +1,4 @@
-Evo is the main server which runs most everything. He's named after one of my D&D characters, an endlessly delightful Sorcerer who loves to bake pastries and also functions as a living Bag of Holding. 
+Evo is the main server which everything. He's named after one of my D&D characters, an endlessly delightful Sorcerer who loves to bake pastries and also functions as a living Bag of Holding. 
 
 ## Parts
 - CPU - AMD 6 core/12 thread

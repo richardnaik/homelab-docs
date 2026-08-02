@@ -1,0 +1,1 @@
+The main storage is a UNAS 2 with a pair of 10 TB drives in a mirror configuration. 10 TB is more than enugh for everything I want to store, and UNAS has easy NFS exporting. It's pretty dead simple.

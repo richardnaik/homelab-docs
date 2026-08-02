@@ -18,3 +18,4 @@ nav:
     - Jellyfin: services/jellyfin.md
     - Dozzle: services/dozzle.md
     - 5eTools: services/5etools.md
+    - HomeAssistant: services/homeassistant.md
