@@ -1,5 +1,11 @@
-# Richard Naik's homelab
+### About Me
 
-This is a documentation project for all the various thingys I have running in my homelab. It runs internal services for private use (jellyfin, 5etools, etc) and a few select public services like an ATProto PDS and FoundryVTT that I attempt to run as safely as possible. 
+[Linkedin](https://www.linkedin.com/in/richardnaik/)
 
-My goal with this project is 1) to help my family make sense of all the stuff in my office in case I get hit by a bus and 2) to help ME make sense of it all in case I forget.
+[GitHub](https://github.com/richardnaik)
+
+I'm a SysAdmin by day and I tinker on my homelab for fun and skill improvement. I use a lot of automations and abstractions at work so at home I try to keep things realtively simple at home, emphasis on relative since I'm still a weirdo who enjoys this sort of thing.
+
+My goal with this project is to help my family make sense of all the stuff in my office in case I get hit by a bus, and to help ME make sense of it all in case I forget.
+
+I've grouped things into three categories, hardware, services, and storage.

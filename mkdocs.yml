@@ -1,5 +1,20 @@
 site_name: Richard Naik's homelab docs
 theme:
-  name: mkdocs
-  color_mode: dark
-  user_color_mode_toggle: true
+  name: readthedocs
+
+nav:
+  - Introduction: 'index.md'
+  - Hardware:
+    - Evo: hardware/evo.md
+    - Network: hardware/network.md
+    - Raspberry Pis: hardware/raspberry-pi.md
+  - Storage:
+    - UNAS: storage/unas.md
+    - Docker: storage/docker-storage.md
+    - Backups: storage/backups.md
+  - Services:
+    - ATProto PDS: services/pds.md
+    - FoundryVTT: services/foundryvtt.md
+    - Jellyfin: services/jellyfin.md
+    - Dozzle: services/dozzle.md
+    - 5eTools: services/5etools.md
