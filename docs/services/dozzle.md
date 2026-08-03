@@ -1,0 +1,1 @@
+Sooooo nice, makes reviewing container logs a breeze.

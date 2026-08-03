@@ -1,1 +1,1 @@
-On Evo there is a second NVME disk that I use for all docker volume storage.
+On Evo there is a second NVME disk that I use for all docker volume storage. Nothing fancy, just 1 TB of space mounted as ext4.
